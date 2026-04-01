@@ -1,0 +1,14 @@
+# Environment / secrets
+.env
+
+# System files (auto-created junk)
+.DS_Store
+Thumbs.db
+
+# Power BI temp / log files
+*.tmp
+*.log
+
+# Backup files
+*.bak
+*.old
