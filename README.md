@@ -95,7 +95,7 @@ This is the part I focused on the most — turning insights into actions:
 -- Final Thoughts
 
 This project shows a complete data analysis workflow:
-Raw Data → Cleaning → Analysis → Visualization → Business Action**
+Raw Data → Cleaning → Analysis → Visualization → Business Action
 
 It highlights how data is not just for analysis, but for making better decisions.
 
