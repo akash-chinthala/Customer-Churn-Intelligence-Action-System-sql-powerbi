@@ -67,6 +67,8 @@ Based on RFM scores, I grouped customers into:
 
 4. Dashboard (Power BI)
 
+ ![Dashboard](Power%20Bi%20Dash/dash_img.png)
+
 I built a dashboard to make insights easy to understand:
 
 - Key KPIs (Revenue, Customers, Recency)
